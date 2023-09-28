@@ -136,14 +136,14 @@ div h2:hover {
 @media screen and (max-width: 768px) {
     h2 {
         text-align: center;
-        font-size: 12px;
+        font-size: 10px;
         margin: 0;
         font-weight: 500;
         padding: 13px;
         white-space: nowrap;
     }
     div h2:hover {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     #description {
